@@ -9,9 +9,8 @@ public class mymain {
 		System.out.println("Hello my dear");
 System.out.println("Chal chalo chal0");
 System.out.println("ntv");
-System.out.println("ntv");
 
-
+System.out.println("hero1");
 	}
 
 }
